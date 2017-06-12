@@ -1,0 +1,9 @@
+# Junk that could exist anywhere:
+.DS_Store
+*.swp
+*.tmp
+
+# Project files that should not be in the repo
+.config/*.ini
+.idea
+.git
