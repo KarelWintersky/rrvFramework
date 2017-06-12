@@ -4,6 +4,6 @@
 *.tmp
 
 # Project files that should not be in the repo
-.config/*.ini
+#.config/*.ini #must be uncommented on production and dev repos
 .idea
 .git
